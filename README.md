@@ -1,4 +1,4 @@
-# Régulateur Tension LM317
+# Régulateur de tension positive réglable LM317
 
 Ce repository enregistre les différents fichiers LTSpice comment vous pouvez réaliser un étage de régulation de tension positive avec le composant LM317, analyser son comportement tout en l'ajustant la tension à sa sortie à partir des deux résistances R1 et R2.
 Plus de détails, vous pouvez vous faire référence à article de découverte : <a href="https://electro-robot.com/les-activites/le-regulateur-de-tension-lm317">https://electro-robot.com/les-activites/le-regulateur-de-tension-lm317</a>
